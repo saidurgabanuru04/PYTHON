@@ -1,6 +1,6 @@
 import re
 # Read the number of test cases
-N = int(input("enter the nnumber"))
+N = int(input("enter the ph.no:"))
 
 for _ in range(N):
     phone = input()
